@@ -6,7 +6,7 @@ const Navbar = () => {
     <>
     <nav className="flex justify-between py-10 px-40 bg-gray-100 h-1/5">
         <div id="navLeft">
-            <h1 className="text-4xl cursor-pointer">Biraj Dulal</h1>
+            <h1 className="text-5xl cursor-pointer">BeeRaaz</h1>
         </div>
         <div id="navRight" className="flex gap-14">
             <a href=""><h3 className="text-xl hover:text-gray-500">Home</h3></a>

@@ -4,7 +4,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <>
-    <nav className="flex justify-between py-10 px-40 bg-gray-100 h-1/5">
+    <nav className="flex justify-between py-10 px-40 h-1/5">
         <div id="navLeft">
             <h1 className="text-5xl cursor-pointer">BeeRaaz</h1>
         </div>
@@ -15,6 +15,17 @@ const Navbar = () => {
             <a href=""><h3 className="text-xl hover:text-gray-500">Contact</h3></a>
         </div>
     </nav>
+    {/* <nav className="flex justify-between py-10 px-40 bg-gray-100 h-1/5">
+      <div id="navLeft">
+      <h1 className="text-5xl cursor-pointer">BeeRaaz</h1>
+      </div>
+      <div id="navMiddle">
+        
+      </div>
+      <div id="navRight">
+      
+      </div>
+    </nav> */}
     </>
   )
 }

@@ -7,7 +7,7 @@ const Home = () => {
         <section id="leftSection" className="basis-2/4 text-left pl-12">
           <div>
             <h2 className="text-4xl font-bold py-2">Hey I'm,</h2>
-            <h1 className=" text-7xl font-bold py-2 text-cyan-300 text-purple-300">Biraj Dulal</h1>
+            <h1 className=" text-7xl font-bold py-2 text-purple-600">Biraj Dulal</h1>
             <h2 className="text-4xl font-bold py-2">Based in Lalitpur, I'm on a mission to turn ideas into pixel-perfect reality.</h2>
           </div>
           

@@ -2,7 +2,7 @@ import React from 'react'
 
 function Contact() {
   return (
-    <div className="flex justify-between px-56 my-40">
+    <div id="contact" className="flex justify-between px-56 my-40">
       <div>
         <h2 className="text-center text-purple-600 text-6xl font-semibold">Contact Me</h2>
         <div className="flex mt-20">

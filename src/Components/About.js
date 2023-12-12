@@ -3,7 +3,7 @@ import React from 'react'
 function About() {
   return (
     <>
-    <div className="flex justify-between px-56 py-20">
+    <div id="about" className="flex justify-between px-56 py-20">
         <div>
             <h2 className="text-7xl font-semibold text-purple-600">About Bee</h2>
         </div>

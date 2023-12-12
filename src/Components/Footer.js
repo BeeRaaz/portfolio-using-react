@@ -7,7 +7,7 @@ function Footer() {
         <h2 className="text-purple-600 text-3xl font-semibold">Powered By: BeeRaaz</h2>
       </div>
       <div>
-      <img width="64" height="64" src="https://img.icons8.com/nolan/64/up-squared--v1.png" alt="up-squared--v1" className="animate-bounce hover:animate-none cursor-pointer duration-300"/>
+      <img width="64" height="64" src="https://img.icons8.com/nolan/64/up-squared--v1.png" alt="up-squared--v1" className="cursor-pointer"/>
       </div>
     </div>
   )

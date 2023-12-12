@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <>
-      <main className="flex justify-between items-center px-52 py-48">
+      <main id="home" className="flex justify-between items-center px-52 py-48">
         <section id="leftSection" className="basis-2/4 text-left pl-12">
           <div>
             <h2 className="text-4xl font-bold py-2">Hey I'm,</h2>

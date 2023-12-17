@@ -5,7 +5,7 @@ function Works() {
   return (
     <>
     <div id="works">
-        <div><h2 className="text-center text-purple-600 text-6xl font-semibold mt-16">Works</h2></div>
+        <div><h2 className="text-center text-purple-600 text-6xl font-semibold my-20">Works</h2></div>
         <div className="text-left text-5xl">
            <ProjectBox /> 
         </div>
